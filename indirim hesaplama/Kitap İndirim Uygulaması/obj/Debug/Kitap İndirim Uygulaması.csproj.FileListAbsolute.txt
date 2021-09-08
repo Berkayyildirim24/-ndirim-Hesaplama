@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\bin\Debug\Kitap İndirim Uygulaması.exe.config
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\bin\Debug\Kitap İndirim Uygulaması.exe
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\bin\Debug\Kitap İndirim Uygulaması.pdb
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap İndirim Uygulaması.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap_İndirim_Uygulaması.Form1.resources
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap_İndirim_Uygulaması.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap İndirim Uygulaması.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap İndirim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap İndirim Uygulaması.exe
+C:\Users\lenovo\source\repos\Kitap İndirim Uygulaması\Kitap İndirim Uygulaması\obj\Debug\Kitap İndirim Uygulaması.pdb
